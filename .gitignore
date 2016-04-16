@@ -1,0 +1,11 @@
+*.pyc
+*.log
+log/
+build/
+*.egg-info
+dist/
+
+#custom
+access_token
+open_ids
+local_config.py
